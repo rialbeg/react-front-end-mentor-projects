@@ -2,6 +2,6 @@
 
 Este repositório é onde estão organizados todos as minhas soluções feitas em React do site Front-end-mentor.
 
-###Newbie level
+### Newbie level
 
 - [Nft Preview Card](https://github.com/rialbeg/nft-preview-card-component-react)
